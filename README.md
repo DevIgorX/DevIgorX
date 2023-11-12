@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tauam Igor  👋
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento FullStack, especialmente no backend. Atualmente, estou aprimorando minhas habilidades em Node.js, JavaScript, e explorando o mundo do React.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento Web, especialmente no backend. Atualmente, estou aprimorando minhas habilidades em Node.js, TypeScript, e explorando o mundo do React.
 
 🚀 Vamos construir algo incrível juntos!
 
